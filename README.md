@@ -13,10 +13,18 @@ mariadb  Ver 15.1 Distrib 10.3.31-MariaDB
 4. запустить python main.py
 
 схема БД
+
 ![db_diagram](readme_pics/db_diagram.png)
+
 регистрация пользователя
+
 ![db_diagram](readme_pics/регистрация.gif)
+
 Круд контактов телефонной книги
+
 ![db_diagram](readme_pics/круд_контактов.gif)
+
 Восстановление пароля
+
 ![db_diagram](readme_pics/смена_пароля.gif)
+
